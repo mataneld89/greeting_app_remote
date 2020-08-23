@@ -1,6 +1,6 @@
 # Let's Git Started - Hands-on Git 101
 
-Thank you for participating in - A hands-on basic Git workshop lead by Hilla Shahrabani.
+Thank you for participating in Let's Git Started - A hands-on basic Git workshop lead by Hilla Shahrabani.
 
 ## Important Links
 
